@@ -904,7 +904,7 @@ color: #000;
     margin-left: 9rem;
 }
 .white-area .h2-p button:hover {
-  border: #87D462 solid 6px;
+  border: white 6px;
 }
 .white-area .h2-p button a{
   text-decoration: none; /* Remove underline */
